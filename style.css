@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
+    background-color: #d6c5c5;
     color: #333;
     margin: 0;
     padding: 0;
@@ -9,7 +9,7 @@ body {
 main {
     max-width: 800px;
     margin: 50px auto;
-    background-color: #ffffff;
+    background-color: #b06e6e;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,8 @@ li {
 }
 
 code {
-    background-color: #eef;
+    color: #d6c5c5;
+    background-color: #815252;
     padding: 2px 6px;
     border-radius: 4px;
     font-family: monospace;
